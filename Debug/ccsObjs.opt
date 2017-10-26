@@ -1,0 +1,1 @@
+"./main.obj" "../lnkx.cmd" -l"C:/c55_lp/c55_dsplib_3.00/lib/55xdspx_r3.lib" -lrts55x.lib 
